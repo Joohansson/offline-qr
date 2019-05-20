@@ -1,4 +1,4 @@
-# Offline QR Generator
+# Offline QR
 Pure JavaScript QR generator and reader that can be run locally. For example when sending data to and from an offline computer.
 
 ### Instructions
